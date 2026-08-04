@@ -1,3 +1,6 @@
+## Project Structure
+
+```text
 DSA-CPP
 │
 ├── README.md
@@ -26,3 +29,4 @@ DSA-CPP
 │       └── stack.h
 │
 └── main.cpp
+```

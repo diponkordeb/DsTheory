@@ -21,12 +21,10 @@ DSA-CPP
 ├── 04_Linear_Data_Structures
 │   │
 │   ├── Queue
-│   │   ├── queue.cpp
-│   │   └── queue.h
+│   │   └── queue.cpp
 │   │
 │   └── Stack
-│       ├── stack.cpp
-│       └── stack.h
+│       └── stack.cpp
 │
 └── main.cpp
 ```
